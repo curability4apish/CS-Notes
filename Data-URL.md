@@ -1,6 +1,6 @@
 duck.ai/GPT-4o mini:
 
-The URL format you provided is known as a **data URL** (or **data URI**). Specifically, it is a way to include small data items inline in web pages as if they were external resources. 
+[The URL format you provided](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACLUlEQVRoge2aoY/TYBjGf2upuYSJ1ZCjZuITVByiYhMnNjGDuIm7ZAq/MIGbRBIyh+s/QMISEAvJzAmWcOIu2cRMT1TM9JYgOjGSIsoXEJuA5Nhyt6/5GOlPv+nzPu3Tvm+bFgDa7fZj0zR7QA045N9mDoyklF3f928K6+angK27szsSSymfGuszv2/NA9imafaMdWz2lZqxB5nfxKGhu4NdyQ3oJjegm9yAbnIDuskN6GbvDTzY+Qi1l/TOBAdA9OUVb/qLzfWVF7x+7lIkIfzQ5e1oN3mlV8Bxm4iNFSVO64KiQk1lBtI0BVvQqGwoEk2OHIskSVTJKjQQRcQUcestSn+pqTQENjFft6TsLqiL0I8JQQQ4Ls3bclRqUXeLEAVMvitTVXsP9C9DEmzELTkSTReHlNmkr1JS8WN0NOQ6hqI45uSPHNV49sSGOGB4rlRR9RwIGQQRWGW833JUalURBxAFH7lWK6h+kC36l4QJ2KLBKkiCputAOmOybUbcgwwm8YjhKkccN4DGCUc2LMMLFKcHslolwkFAhEXZa9HyylhETN9fZSGV0S606PM5WIJTpepAOpuQQXogy2Xu6jwkxsJiSXiRRXhWZLeNhoPVYIumZJQeAAqdTudndofPnr1/H8gN6CY3oJvcgG5yA7rJDejmvzAw193EDswNYMevk1oZGVLKLhDr7uQexFLKrjkej795nvfOMIxH658+HurubAtz4JOU8tT3/Ztf0oWaxxVLFx4AAAAASUVORK5CYII=) is known as a **data URL** (or **data URI**). Specifically, it is a way to include small data items inline in web pages as if they were external resources. 
 
 ### Breakdown of the Data URL:
 
