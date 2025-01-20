@@ -1,4 +1,4 @@
-duck.ai:
+duck.ai/GPT-4o mini:
 
 The URL format you provided is known as a **data URL** (or **data URI**). Specifically, it is a way to include small data items inline in web pages as if they were external resources. 
 
